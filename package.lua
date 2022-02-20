@@ -6,7 +6,7 @@
     license = "MIT",
     author = { name = "Bilal2453", email = "belal2453@gmail.com" },
     homepage = "https://github.com/Bilal2453/test-repo",
-    dependencies = { "git://github.com/Bilal2453/disordia-replies" },
+    dependencies = { "git://github.com/Bilal2453/discordia-replies" },
     files = {
       "**.lua",
       "!test*"
